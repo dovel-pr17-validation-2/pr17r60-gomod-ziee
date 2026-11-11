@@ -17,7 +17,7 @@ require (
 	github.com/imroc/req/v3 v3.61.0
 	github.com/leonelquinteros/gotext v1.7.2
 	github.com/lib/pq v1.12.3
-	github.com/nats-io/nats.go v1.54.0
+	github.com/nats-io/nats.go v1.55.0
 	github.com/prometheus/client_golang v1.24.1
 	github.com/qdrant/go-client v1.19.3
 	github.com/redis/go-redis/v9 v9.22.0
